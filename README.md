@@ -2,7 +2,7 @@
 You have landed on the Github page of **Ullas Bharadwaj**.  
 
 ## About Him ##
-He is a software developer who works mostly with C, C++ and Python involving Embedded Software, Data Science, Aritiical Intelligence and Alog Trading. Not surprisingly, like many software developers, he also drops his free time into contributing to open source software projects or sometime publishing one if it's worthy. Even though his profile has not been *starred* 🌟 by many, he suggests people to go through the repositories if they have unfortunately landed onto his Github page. Who know's, his work can be Start-Worthy 😛 
+He is a software developer who works mostly with C, C++ and Python involving Embedded Software, Data Science, Aritifical Intelligence and Algo Trading. Not surprisingly, like many software developers, he also drops his free time into contributing to open source software projects or sometime publishing one if it's worthy. Even though his profile has not been *starred* 🌟 by many, he suggests people to go through the repositories if they have unfortunately landed onto his Github page. Who know's, his work can be Start-Worthy 😛 
 
 ## Some Not-Great Stats ##
 <a href="https://github.com/anuraghazra/convoychat">
